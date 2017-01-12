@@ -1,0 +1,4 @@
+For the OpenStreetMap project I chose to look at the Toronto Ontario Canada area, where I currently live. 
+The following url is a link to the 79MB, uncompressed, OSM XML file for the Toronto area which is provided by MapZen.
+
+https://mapzen.com/data/metro-extracts/metro/toronto_canada/
